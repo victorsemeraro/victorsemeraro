@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Steven Semeraro</h1>
 <h3 align="center">Computational Scientist and Quantitative Developer</h3>
 
-- 🔭 I’m currently working on [AlgoTrading](https://victorsemeraro.github.io/AlgoTrading/)
+- 🔭 I’m currently working on
+  - [AlgoTrading](https://victorsemeraro.github.io/AlgoTrading/)
 
-- 🌱 I’m currently learning **Computational Finance**
-- 🌱 I’m currently learning **Computational Physics**
-
+- 🌱 I’m currently learning
+  - **Computational Finance**
+  - **Computational Physics**
+  - **Machine Learning**
 
 <p align="left">
 </p>
