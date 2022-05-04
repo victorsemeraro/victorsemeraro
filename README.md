@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on
   - [AlgoTrading](https://victorsemeraro.github.io/AlgoTrading/)
+  - [CryptoScalping](https://victorsemeraro.github.io/CryptoScalping/)
+  - [NumericalMethods](https://victorsemeraro.github.io/NumericalMethods/)
 
 - 🌱 I’m currently learning
   - **Computational Finance**
