@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Steven Semeraro</h1>
 <h3 align="center">Computational Scientist and Quantitative Developer</h3>
 
-- 🔭 I’m currently working on
-  - [AlgoTrading](https://victorsemeraro.github.io/AlgoTrading/)
-  - [CryptoScalping](https://victorsemeraro.github.io/CryptoScalping/)
-  - [NumericalMethods](https://victorsemeraro.github.io/NumericalMethods/)
+- 🌱 I’m currently working on
+  - [AlgoTrading](https://github.com/victorsemeraro/AlgoTrading/)
+  - [CryptoScalping](https://github.com/victorsemeraro/CryptoScalping/)
+  - [VolArbitrage](https://github.com/victorsemeraro/VolArbitrage/)
+
+- 🌱 I’m currently researching
+  - [Quantum](https://github.com/victorsemeraro/Quantum/)
+  - [NumericalMethods](https://github.com/victorsemeraro/NumericalMethods/)
 
 - 🌱 I’m currently learning
   - **Computational Finance**
